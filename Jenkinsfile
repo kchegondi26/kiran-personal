@@ -1,8 +1,9 @@
 node
 { 
-tage 'build'
+stage 'build'
 echo 'your name'
 stage 'test'
 echo 'test'
-tage 'deploy'
-cho 'deploy now'
+stage 'deploy'
+echo 'deploy now'
+}
